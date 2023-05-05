@@ -27,8 +27,7 @@ https://www.youtube.com/embed/i2dSJZ3KVL4
  - Nib files and Storyboards
  - Unit Testing
  - Project Management Tools(Jira - Git)
-0 comments on commit 4f40aaa
- Lock conversation
+
 
 
 
